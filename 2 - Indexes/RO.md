@@ -20,10 +20,12 @@
 
 ### Problemi e Modelli
 
-* [ ] [[1 - Definizione - Algoritmo esatto vs Algoritmo euristico]]
-* [ ] [[Definizione - Variabili quantitative, Variabili Logiche, Variabili logiche e Variabili Proposizionali]]
-	* [ ] [[Relazioni tra variabili proposizionali]]
+* [ ] [[1 - Definizione - Algoritmo esatto vs Algoritmo euristico]] !!!
+* [ ] [[Definizione - Variabili quantitative, Variabili Logiche o Proposizionali, Variabile a valori discreti]]
+	* [ ] [[Relazioni tra variabili proposizionali]] !!! Impportante per scritto, orale penso chill
 * [ ] [[Definizione - Variabili di assegnamento vs Variabili di semi-assegnamento]]
+* [ ] [[Definizione - Problema di copertura, Problema di Partizione, Problema di Riempimento]] !!!
+* [ ] 
 
 
 
