@@ -1,0 +1,14 @@
+{
+  "readableLineLength": true,
+  "spellcheck": false,
+  "newFileLocation": "root",
+  "newFileFolderPath": " 4 - Atomic Notes",
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

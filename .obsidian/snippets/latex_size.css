@@ -1,0 +1,5 @@
+/* Formula in-linea con $...$ */
+.markdown-preview-view .math {
+    font-size: 1.4em; /* Dimensione minore per formule in-linea */
+}
+
