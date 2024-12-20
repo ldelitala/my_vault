@@ -1,5 +1,7 @@
 [
   "obsidian-style-settings",
   "obsidian-latex-suite",
-  "pdf-plus"
+  "pdf-plus",
+  "better-word-count",
+  "github-sync"
 ]

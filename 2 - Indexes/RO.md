@@ -18,6 +18,13 @@
 
 ## Sotto - argomenti
 
+### Problemi e Modelli
+
+* [ ] [[1 - Definizione - Algoritmo esatto vs Algoritmo euristico]]
+* [ ] [[Definizione - Variabili quantitative, Variabili Logiche, Variabili logiche e Variabili Proposizionali]]
+	* [ ] [[Relazioni tra variabili proposizionali]]
+* [ ] [[Definizione - Variabili di assegnamento vs Variabili di semi-assegnamento]]
+
 
 
 ### Grafi e Reti di flusso
