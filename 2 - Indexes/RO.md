@@ -30,30 +30,40 @@
 
 ### Grafi e Reti di flusso
 
-* [ ] [[1 - Definizione - Problema del flusso di costo minimo]] !!!!
-	* [ ] [[1.1 - Definizione - rete e deficit]] !!!!
-	* [ ] [[1.2 - Definizione - Domanda Globale e Offerta Globale]] !!!!
-	* [ ] [[1.3 - Definizione - Vincoli di Conservazione del Flusso e Vincoli di capacità sugli archi]] !!
-	* [ ] [[1.4 - Definizione - Flusso ammissibile e Valore del flusso]] !!!
-	* [ ] [[1.5 - Definizione - Pseudoflusso]] !!!!
-	* [ ] [[1.6 - Definizione - Sbilanciamento, eccesso di flusso e difetto di flusso, nodo bilanciato]] !!!!
-	* [ ] [[1.7 - Definizione - Pseudoflusso minimale]] !!!!!
-	* [ ] [[Operazioni di modifica dello pseudoflusso]]
+#### Albero dei cammini minimi
+* [ ] [[1 - Introduzione - Problema dell'albero dei cammini minimi]]
+	* [ ] [[1.1 - Algoritmo - SPT Shortest Path Tree]] !!!
+		* [ ] [[1.1.1 - Algoritmo - SPT.S Shortest Path Tree Shortest-First]] !!!!
+		* [ ] [[1.1.2 - Teorema - Proprietà di SPT.S con cicli non negativi]]
+		* [ ] [[1.1.3 - Algoritmo - SPT.L]] !!!!
+			* [ ] [[1.1.3.1 - Algoritmo - Algoritmo di Bellman]]
+	* [ ] [[1.2 - Problema e soluzione dei cammini minimi con più radici]] !!!
+#### Albero di copertura di costo minimo
+* [ ] [[2 - Introduzione - Problema dell'albero di copertura di costo minimo]]
+	* [ ] [[2.1 - Differenza tra l'albero di copertura di costo minimo e quello dei cammini minimi]]
+	* [ ] [[2.2 - Algoritmo - Greedy MST sul problemma dell'albero di copertura di costo minimo]]
+		* [ ] [[2.2.1 - Algoritmo - Algoritmo di Kruskal]] !!!!
+		* [ ] [[2.2.2 - Algoritmo - Algoritmo di Prim]] !!!!
 
-* [ ] [[2 - Introduzione - Problema dell'albero dei cammini minimi]]
-	* [ ] [[2.1 - Algoritmo - SPT Shortest Path Tree]] !!!
-		* [ ] [[2.1.1 - Algoritmo - SPT.S Shortest Path Tree Shortest-First]] !!!!
-		* [ ] [[2.1.2 - Teorema - Proprietà di SPT.S con cicli non negativi]]
-		* [ ] [[2.1.3 - Algoritmo - SPT.L]] !!!!
-	* [ ] [[2.2 - Problema e soluzione dei cammini minimi con più radici]] !!!
+#### Flusso massimo
+* [ ] [[3 - Definizione - Problema del flusso massimo]]
+	* [ ] [[3.1 - Teorema - Taglio minimo uguale a Flusso Massimo]]!!!!
+	* [ ] [[3.2 - Algoritmo - Cammini Aumentanti]] !!!
+		* [ ] [[3.2.1 - Algortimo - Edmonds & Karp]] !!!!
+		* [ ] [[3.2.2 - Problema del flusso massimo con più sorgenti e pozzi]] !!!!
 
-* [ ] [[3 - Introduzione - Problema dell'albero di copertura di costo minimo]]
-	* [ ] [[3.1 - Differenza tra l'albero di copertura di costo minimo e quello dei cammini minimi]]
-	* [ ] [[3.2 - Algoritmo - Greedy MST sul problemma dell'albero di copertura di costo minimo]]
-		* [ ] [[3.2.1 - Algoritmo - Algoritmo di Kruskal]] !!!!
-		* [ ] [[3.2.2 - Algoritmo - Algoritmo di Prim]] !!!!
-
-* [ ] [[2 - Algoritmo - cammini minimi successivi]]
+#### Flusso di costo minimo
+* [ ] [[4 - Definizione - Problema del flusso di costo minimo]] !!!!
+	* [ ] [[4.1 - Definizione - rete e deficit]] !!!!
+	* [ ] [[4.2 - Definizione - Domanda Globale e Offerta Globale]] !!!!
+	* [ ] [[4.3 - Definizione - Vincoli di Conservazione del Flusso e Vincoli di capacità sugli archi]] !!
+	* [ ] [[4.4 - Definizione - Flusso ammissibile e Valore del flusso]] !!!
+	* [ ] [[4.5 - Definizione - Pseudoflusso]] !!!!
+	* [ ] [[4.6 - Definizione - Sbilanciamento, eccesso di flusso e difetto di flusso, nodo bilanciato]] !!!!
+	* [ ] [[4.7 - Definizione - Pseudoflusso minimale]] !!!!!
+	* [ ] [[4.8 - Operazioni di modifica dello pseudoflusso]]
+	* [ ] [[4.9 - Algoritmo - Cancella Cicli]] !!!!!
+	* [ ] [[4.10 - Algoritmo - cammini minimi successivi]] !!!!!
 
 ### PROGRAMMAZIONE LINEARE
 
@@ -138,11 +148,15 @@
 * [ ] [[6 - Teorema - condizione necessaria e sufficiente per la ottimalità della soluzione]]
 	* [ ] [[6.1 - Definizione - Insieme complementare alla Base]]
 	* [ ] [[6.2 -  Definizione - Soluzione Duale associata alla Base]]
-	* [ ] [[6.3 - Tabella delle soluzioni di base complementari]]
+	* [ ] [[6.3 - Tabella delle soluzioni di base complementari]] !!!!!
 
 #### Algoritmi del Simplesso
 * [ ] [[1 -  Introduzione - Algoritmo del Simplesso Primale ]]
 	* [ ] [[1.1 - L'albero dei casi dell'algorimto del Simplesso Primale]]
 		* [ ] [[1.1.1 - Verificare se ci siano o meno direzioni di crescita]]
 			* [ ] [[1.1.1.a - Esempio pratico su come verificare se ci siano o meno direzioni di crescita]]
-	* [ ] [[1.2 - Algoritmo - Algoritmo del Simplesso Primale]]
+	* [ ] [[1.2 - Algoritmo - Algoritmo algebrico del Simplesso Primale]] !!!!
+	* [ ] [[1.3 - Algoritmo - Algoritmo geometrico del Simplesso Primale]] !!!!
+
+* [ ] [[2 - Algoritmo - Algoritmo algebrico del Simplesso Duale]] !!!!
+	* [ ] [[2.1 - Algoritmo - Algoritmo geometrico del Simplesso Duale]] !!!

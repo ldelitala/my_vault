@@ -28,4 +28,4 @@ E) Per capire di quanto è possibile aumentare il flusso massimo da un solo nodo
 
 ## Riferimenti utili
 
-* [[1.4 - Definizione - Flusso ammissibile e Valore del flusso]]
+* [[4.4 - Definizione - Flusso ammissibile e Valore del flusso]]
