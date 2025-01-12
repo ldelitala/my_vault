@@ -11,15 +11,16 @@
             "id": "5b4c0860bbffb742",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "2 - Indexes/DEFINIZIONI MATEMATICHE PURE RO.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "1 - UNIPI/RO/materiale_didattico/AppuntiRO.pdf",
+                "page": 142,
+                "left": -12,
+                "top": 136,
+                "zoom": 1.2221221752598797
               },
-              "icon": "lucide-file",
-              "title": "DEFINIZIONI MATEMATICHE PURE RO"
+              "icon": "lucide-file-text",
+              "title": "AppuntiRO"
             }
           }
         ]
@@ -170,9 +171,14 @@
   "active": "5b4c0860bbffb742",
   "lastOpenFiles": [
     "2 - Indexes/ALGORITMI RO.md",
+    "1 - UNIPI/RO/appunti/programmazione lineare/4 - algoritmi del simplesso/2.1 - Algoritmo - Algoritmo geometrico del Simplesso Duale.md",
+    "1 - UNIPI/RO/esercizi/compito3.pdf",
+    "1 - UNIPI/RO/esercizi/compito3-sol.pdf",
+    "2 - Indexes/DEFINIZIONI MATEMATICHE PURE RO.md",
+    "1 - UNIPI/RO/esercizi/compito3-sol.pdf.crdownload",
+    "1 - UNIPI/RO/esercizi/compito3.pdf.crdownload",
     "2 - Indexes/TEOREMI RO.md",
     "2 - Indexes/DEFINIZIONI RO.md",
-    "2 - Indexes/DEFINIZIONI MATEMATICHE PURE RO.md",
     "1 - UNIPI/RO/appunti/programmazione lineare/2 - il problema di programmazione lineare/5.1 - Corollario - condizione necessaria e sufficiente della soluzione ottima del problema di PL.md",
     "1 - UNIPI/RO/appunti/programmazione lineare/2 - il problema di programmazione lineare/9.1 - Corollario - punto estremo di un Poliedro.md",
     "1 - UNIPI/RO/appunti/programmazione lineare/2 - il problema di programmazione lineare/3 - Teorema - condizione di illimitatezza superiore al problema di PL.md",
@@ -192,10 +198,8 @@
     "1 - UNIPI/RO/appunti/programmazione lineare/3 - Teoria della Dualità/6.2 -  Definizione - Soluzione Duale associata alla Base.md",
     "1 - UNIPI/RO/appunti/programmazione lineare/3 - Teoria della Dualità/6.1 - Definizione - Insieme complementare alla Base.md",
     "2 - Indexes/RO.md",
-    "1 - UNIPI/RO/appunti/programmazione lineare/4 - algoritmi del simplesso/2.1 - Algoritmo - Algoritmo geometrico del Simplesso Duale.md",
     "Benvenuto.md",
     "Pasted image 20250111204014.png",
-    "1 - UNIPI/RO/appunti/programmazione lineare/3 - Teoria della Dualità/5.1 - Definizione - Soluzioni complementari e Scarti Complemetari.md",
     "1 - UNIPI/RO/materiale_didattico/AppuntiRO.pdf",
     "1 - UNIPI/RO/immagini/esempio algoritmo duale geometrico 2.png",
     "1 - UNIPI/RO/immagini/Pasted image.png",
@@ -210,10 +214,6 @@
     "1 - UNIPI/RO/esercizi/compito2-sol.pdf.crdownload",
     "1 - UNIPI/RO/esercizi/compito2.pdf.crdownload",
     "1 - UNIPI/RO/appunti/Grafi e reti di flusso",
-    "1 - UNIPI/RO/esercizi/Compito1.pdf",
-    "RO/materiale_didattico/AppuntiRO.pdf",
-    "RO/materiale_didattico",
-    "RO/appunti/programmazione lineare/4 - algoritmi del simplesso",
     "RO/immagini/compito1_es2.png"
   ]
 }
