@@ -103,6 +103,18 @@ ps Ex=b rappresenta i vincoli di conservazione del flusso
 $$max\{\ cx\ :\ Ax \leq b\ \}$$
 * [[1.1 - Modello Standard di PL]]
 
+#### Direzione ammissibile
+
+$$
+\text{Dato } \bar{x} \in P \text{, se vale :}
+$$
+$$
+A_{i}(\bar{x}+\lambda \xi)= A_{i}\bar{x} + \lambda A_{i}\xi \leq b_{i} \ , \qquad \forall \lambda \in [0,\bar{\lambda}] \ , \qquad \bar{\lambda} >0 \ , \qquad i=1,\dots,m
+$$
+$$
+\text{allora } \xi \text{ è detto direzione ammissibile per } \bar{x}
+$$
+
 ### Problema Duale associato al Primale (!!!!)
 
 $$
@@ -123,6 +135,36 @@ $$
 $$
 
 * [[5.1 - Definizione - Soluzioni complementari e Scarti Complemetari]]
+
+### Insieme complementare della Base
+$$
+N = \{1,\dots,m\} / B
+$$
+* [[6.1 - Definizione - Insieme complementare alla Base]]
+
+
+### Soluzione Duale associata ala base (!!!!!)
+
+$$
+\bar{y}=[ \ y_{B} \ , \ y_{N} \ ]=[ \ c \ (A^t_{B})^{-1} \ , \ 0 \ ]
+$$
+
+* [[6.2 -  Definizione - Soluzione Duale associata alla Base]]
+
+### Insieme degli indici dei vincoli attivi
+
+$$
+I(\bar{x}) = \{i: A_{i}\bar{x}=b_{i} \}
+$$
+* [[7 - Definizione - insieme degli indici dei vincoli attivi]]
+
+### Cono di recessione associato ad una base
+
+$$
+ \text{rec}(P_{B})=\{x:A_{B}x \leq 0\}
+$$
+* [[9.2 - Definizione - Cono di recessione associato ad una base]]
+
 
 
 ## Elementi Grafici

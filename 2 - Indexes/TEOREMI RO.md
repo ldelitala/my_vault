@@ -1,3 +1,49 @@
+
+# Indice
+
+### Algebra lineare
+* [ ] [[2 - Teorema - il cono delle direzioni di recessione]]
+* [ ] [[5 - Teorema - un poliedro è la somma di un inviluppo conico e un inviluppo convesso]] (!)
+* [ ] [[4 - Teorema - qualsiasi cono finitamente generato è un cono poliedrico, e viceversa]]
+* [ ] [[2.1 - Corollario - Linealità di P]]
+
+### Grafi e Reti di flusso
+* [ ] [[1.1.2 - Teorema - Proprietà di SPT.S con cicli non negativi]]
+
+##### min cut - max flow
+* [ ] [[3.1 - Teorema - Taglio minimo uguale a Flusso Massimo]] (!!!!)
+
+### Programmazione Lieare
+
+##### Dualità
+* [ ] [[3 - Teorema - dualità debole|Dualità debole]] (!!!)
+	* [ ] [[4 - Teorema - dualità forte|Dualità forte]] (!!!)
+
+* [ ] [[2 - Teorema - il Duale del Duale è il Primale|il Duale del Duale è il Primale]] (!!)
+
+##### Scarti complementari
+* [ ] [[5 - Teorema - soluzioni e scarti complementari|Il teorema degli scarti complementari]] (!!!!!!)
+* [ ] [[5.4 - Corollario - Estensione del teorema sulla relazione tra soluzioni e scarti complementari|Estensione del teorema sulla relazione tra soluzioni e scarti complementari]] (!!)
+
+##### Teoremi per la risoluzione degli algoritmi
+* [ ] [[4.1 - Teorema - relazione tra soluzioni del primale e duale|relazione tra soluzioni del primale e del duale]] (!!!!)
+* [ ] [[6 - Teorema - condizione necessaria e sufficiente per la ottimalità della soluzione|condizione necessaria e sufficiente per la ottimalità della soluzione]] (!!!!)
+* [ ] [[3.2 - Corollario - certificato di ottimalità]] (!!!!!)
+
+
+##### Altri teoremi sulla PL
+* [ ] [[3 - Teorema - condizione di illimitatezza superiore al problema di PL]]
+* [ ] [[6 - Teorema - Riduzione di variabili in un problema di PL con linealità]]
+* [ ] [[8.1 - Teorema - una direzione è ammissibile se appartiene al cono degli indici attivi]]
+* [ ] [[9.1 - Corollario - punto estremo di un Poliedro]]
+* [ ] [[6.3 - Corollario - Proprietà del problema ridotto]]
+* [ ] [[3.1 - Corollario - Se il primale è illimitato il Duale è vuoto]]
+* [ ] [[5.1 - Corollario - condizione necessaria e sufficiente della soluzione ottima del problema di PL]]
+
+## Grafi e Reti di flusso
+
+
+
 ## Programmazione Lineare
 
 ### Teorema - il cono delle direzioni di recessione
@@ -24,8 +70,9 @@ $$
 $$
 #### Corollario - condizione necessaria e sufficiente della soluzione ottima del problema di PL
 $$
-\text{Se} \quad P = \{x : Ax \leq 0 \} = \text{conv}(X) + \text{cono}(V) \quad \text{ allora:}
+\text{Se} \quad P = \{x : Ax \leq b \} = \text{conv}(X) + \text{cono}(V) \quad \text{ allora:}
 $$
+
 $$
 c \cdot v \leq 0,\ \forall v \in V \quad \leftrightarrow \quad \exists h : x_{h} \in X \ \ \text{è soluzione ottima}
 $$
