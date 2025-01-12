@@ -29,3 +29,10 @@ Parte di [[ALGORITMI]]
 * [[1.3 - Algoritmo - Algoritmo geometrico del Simplesso Primale]]
 * [[2 - Algoritmo - Algoritmo algebrico del Simplesso Duale]]
 * [[2.1 - Algoritmo - Algoritmo geometrico del Simplesso Duale]]
+
+
+## Programmazione Lineare Intera
+
+* [ ] [[Algoritmo dello zaino]]
+* [ ] [[Algoritmo del ciclo hemiltoniano]]
+
