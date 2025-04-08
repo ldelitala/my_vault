@@ -7,7 +7,7 @@
 
 > Formalmente:
 
-$$ P \in \mathbb{R}^n \text{ è un poliedro} \quad \leftrightarrow \quad \exists X = \{x_1,...,x_t\},\ \exists V = \{v_1,...,v_s\} : P = \text{conv}(X) + \text{cono}(V)$$
+$$ P \subseteq \mathbb{R}^n \text{ è un poliedro} \quad \leftrightarrow \quad \exists X = \{x_1,...,x_t\},\ \exists V = \{v_1,...,v_s\} : P = \text{conv}(X) + \text{cono}(V)$$
 **Proprietà del Teorema**:
 1. $\text{cono}(V) = \text{rec}(P)$.
 2. $X$ è l'insieme dei vertici di $P$

@@ -20,7 +20,6 @@ $$
 
 Scriverò in appunti futuri come sfruttare questa informazione, anche se a occhio è abbastanza intuibile.
 
-
 ## Riferimenti utili
 
 * 

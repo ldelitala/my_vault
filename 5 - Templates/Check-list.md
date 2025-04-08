@@ -1,4 +1,3 @@
-*status*: #bozza 
 *tags*: [[UNIPI]]
 
 **Professore**: 

@@ -1,0 +1,1 @@
+Strettamente collegata a [[PROGRAMMAZIONE LINEARE]]

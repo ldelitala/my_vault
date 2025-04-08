@@ -3,5 +3,7 @@
   "obsidian-latex-suite",
   "pdf-plus",
   "better-word-count",
-  "github-sync"
+  "github-sync",
+  "obsidian-admonition",
+  "obsidian-pandoc"
 ]

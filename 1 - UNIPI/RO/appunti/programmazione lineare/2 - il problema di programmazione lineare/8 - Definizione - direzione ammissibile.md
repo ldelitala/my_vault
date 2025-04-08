@@ -17,4 +17,4 @@ Se, invece, consideriamo $i \notin I(\bar{x})$ si ha che la condizione è verifi
 
 ## Riferimenti utili
 
-* [[8.1 - Teorema - una direzione è ammissibile se appartiene al cono degli indici attivi]]
+* [[8.1 - Proprietà - una direzione è ammissibile se appartiene al cono degli indici attivi]]

@@ -1,4 +1,3 @@
-*status*: #bozza 
 *tags*:
 
 ## Titolo
