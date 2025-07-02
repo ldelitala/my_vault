@@ -4,22 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "fdc26852e461afd9",
+        "id": "23cf0665186c2a0a",
         "type": "tabs",
         "children": [
           {
-            "id": "220c7be9803acd79",
+            "id": "a97c1ec61345ed9d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Multa Parma/Timeline eventi multa parma.md",
+                "file": "1 - UNIPI/BD/Appello1/Progetto_Finale.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Timeline eventi multa parma"
+              "title": "Progetto_Finale"
+            }
+          },
+          {
+            "id": "1e62736d9b3111bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Compagni di Scuola.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Compagni di Scuola"
+            }
+          },
+          {
+            "id": "b6f894a02fec87f0",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Informa/DigComp/Esercitazione finale - lavoro a gruppi.pdf",
+                "page": 1,
+                "left": -16,
+                "top": 796,
+                "zoom": 1.0428921568627452
+              },
+              "icon": "lucide-file-text",
+              "title": "Esercitazione finale - lavoro a gruppi"
             }
           }
         ]
@@ -168,53 +199,53 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "4d0a50e7da357b29",
+  "active": "a97c1ec61345ed9d",
   "lastOpenFiles": [
-    "Multa Parma/documenti",
-    "Multa Parma/immagini",
-    "Multa Parma",
-    "Multa Parma/documenti/3697552.pdf",
-    "Multa Parma/immagini/email_parma.png",
-    "Multa Parma/Timeline eventi multa parma.md",
-    "1 - UNIPI/BD/DEFINIZIONI BD.md",
-    "1 - UNIPI/BD/appunti/I quattro aspetti del problema di modellazione dei dati.md",
-    "Attività Fuoco Pernotto 5-6 Aprile.md",
-    "1 - UNIPI/BD/immagini/esempioAssociazioni.png",
-    "1 - UNIPI/BD/appunti/Definizione - Aspetto Linguistico del Problema di Modellazione.md",
-    "Come si rappresenta un'associazione.md",
-    "Check list posti da chiamare.md",
-    "1 - UNIPI/BD/appunti/Definizione - Aspetto Ontologico del Problema di Modellazione.md",
-    "1 - UNIPI/BD/appunti/Definizione - Vincolo di Univocità.md",
-    "1 - UNIPI/BD/BASI DI DATI.md",
-    "1 - UNIPI/BD/appunti/Definizione - Associazione.md",
-    "1 - UNIPI/BD/appunti/Definizione - Associazione Ricorsiva.md",
-    "1 - UNIPI/BD/appunti/Definizione - Associazione Binaria vs Non-Binaria.md",
-    "1 - UNIPI/BD/appunti/Definizione - Dominio.md",
-    "1 - UNIPI/BD/appunti/I tre livelli di descrizione dei dati.md",
-    "1 - UNIPI/BD/appunti/Le componenti principali di una base di dati.md",
-    "1 - UNIPI/BD/appunti/Definizione - Collezione di Entità.md",
-    "1 - UNIPI/BD/appunti/Definizione - Conoscenza concreta.md",
-    "1 - UNIPI/BD/appunti/Funzionalità dei DBMS.md",
-    "1 - UNIPI/BD/appunti/Definizione - Vincolo di Totalità.md",
-    "1 - UNIPI/BD/appunti/Definizione - Proprietà.md",
-    "1 - UNIPI/BD/appunti/Definizione - Entità.md",
-    "1 - UNIPI/BD/appunti/Definizione - Aspetto Pragmatico del Problema di Modellazione.md",
-    "1 - UNIPI/BD/appunti/Definizione - Aspetto Logico del Problema di Modellazione.md",
-    "1 - UNIPI/BD/appunti/Definizione - Conoscenza procedurale.md",
-    "1 - UNIPI/BD/immagini/architettura bdms.png",
-    "1 - UNIPI/BD/immagini/sistema informativo decisionale.png",
-    "1 - UNIPI/BD/immagini/Pasted image.png",
-    "1 - UNIPI/BD/immagini/Classificazione sistema informatico.png",
-    "1 - UNIPI/BD/immagini/componenti sistema informatico.png",
-    "1 - UNIPI/BD/immagini/sistema informativo.png",
-    "1 - UNIPI/BD/immagini",
-    "1 - UNIPI/STAT/Materiale del corso/Dispense_anni_passati_stat_inf_2022_2024.pdf",
-    "1 - UNIPI/BD/slides/1.Sistemi_modificato_Parte_I.pdf",
-    "1 - UNIPI/BD/slides/esercizi piani di accesso.png",
-    "1 - UNIPI/BD/slides/Esercitazione_spostamenti aprile 2018_2soluz.pdf",
-    "1 - UNIPI/BD/slides/Esercitazione Progettazione Agenzia Pubblicitaria.pdf",
-    "1 - UNIPI/BD/slides/Concettuale magazzino 23-10-30.pdf",
-    "1 - UNIPI/BD/slides/9.RealizzazioneDBMS_Parte_IV_Transazioni.pdf",
-    "1 - UNIPI/RO/immagini/Algoritmo BB.png"
+    "Compagni di Scuola.md",
+    "1 - UNIPI/BD/Appello1/Progetto_Finale.md",
+    "1 - UNIPI/BD/Appello3",
+    "Informa/DigComp/00 - Introduzione/Slides - Digcomp.pdf",
+    "Informa/DigComp/Esercitazione finale - lavoro a gruppi.md",
+    "Informa/DigComp/Esercitazione finale - lavoro a gruppi.pdf",
+    "Informa/DigComp/Esercizi - Canva.md",
+    "Informa/DigComp/Esercizi - Canva.pdf",
+    "Informa/DigComp/Area 4 - valutazione dell'apprendimento/MD/Esercizio - quiz interattivo.md",
+    "Informa/DigComp/Area 3 - pratiche di insegnamento e apprendimento/MD/Esercizio - presentazione con Canva.md",
+    "Informa/DigComp/Area 2 - Risorse Digitali/MD/Esercizi - google, yt e ai.md",
+    "Appunti della classe.md",
+    "Informa/DigComp/00 - Introduzione/Slides - introduzione corso.pdf",
+    "Informa/Sostituzione 2025.06.24.md",
+    "Informa/DigComp/Percorso lezioni/DigComp - 3 - valorizzazione professionale.md",
+    "Informa/DigComp/Percorso lezioni/DigComp - 2 - Autovalutazione.md",
+    "Informa/DigComp/Area 1 - valorizzazione professionale/MD/Appunti - LLM.md",
+    "Informa/DigComp/Area 1 - valorizzazione professionale/PDF/Appunti - LLM.pdf",
+    "Informa/DigComp/Percorso lezioni/DigComp - Extra - Pratiche di sicurezza password.md",
+    "Informa/DigComp/Percorso lezioni/DigComp - 1 - Introduzione al corso.md",
+    "Informa/DigComp/00 - Introduzione/Slides - norme_sicurezza_password.pdf",
+    "Informa/DigComp/Giovanni23/Cosa faremo.md",
+    "Informa/DigComp/Giovanni23/2025.06.19.md",
+    "Informa/DigComp/Giovanni23/2025.06.09.md",
+    "Informa/DigComp/Area 4 - valutazione dell'apprendimento/MD/Appunti - come creare un quiz interattivo.md",
+    "Informa/DigComp/Percorso lezioni/DigComp - 7 - valorizzazione delle potenzialità degli studenti.md",
+    "Informa/DigComp/Area 4 - valutazione dell'apprendimento/PDF/Appunti - come creare un quiz interattivo.pdf",
+    "Informa/DigComp/Area 4 - valutazione dell'apprendimento/PDF/quiz_tabellina_3.pdf",
+    "Informa/DigComp/Area 4 - valutazione dell'apprendimento/PDF/Esercizio - quiz interattivo.pdf",
+    "Informa/DigComp/Percorso lezioni/DigComp - 6 - valutazione dell'apprendimento.md",
+    "Informa/DigComp/Percorso lezioni/DigComp - 5 - Pratiche di insegnamento e apprendimento.md",
+    "Informa/DigComp/Area 3 - pratiche di insegnamento e apprendimento/MD/Appunti - introduzione a Canva.md",
+    "Informa/DigComp/Area 2 - Risorse Digitali/MD/Appunti - google, yt e ai.md",
+    "Informa/DigComp/Area 3 - pratiche di insegnamento e apprendimento/MD/immagini/schermata editor canva.png",
+    "Informa/DigComp/Area 3 - pratiche di insegnamento e apprendimento/MD/immagini/schermata iniziale canva.png",
+    "Informa/DigComp/Percorso lezioni/DigComp - 4 - Risorse Digitali.md",
+    "Informa/DigComp/esempio_memory.png",
+    "Informa/DigComp/Area 1 - valorizzazione professionale/MD/Appunti - GMAIL.md",
+    "Informa/DigComp/Area 2 - Risorse Digitali/MD/Immagini/introduzione_lezione.png",
+    "5 - Templates/nuova lezione.md",
+    "Informa/DigComp/Area 2 - Risorse Digitali/Immagini/introduzione_lezione.png",
+    "Informa/DigComp/Area 1 - valorizzazione professionale/MD/immagini/tokenization_example.png",
+    "Informa/DigComp/Area 1 - valorizzazione professionale/MD/immagini/gmail_send_email.png",
+    "Informa/DigComp/Area 1 - valorizzazione professionale/immagini/tokenization_example.png",
+    "Informa/DigComp/Area 1 - valorizzazione professionale/immagini/gmail_send_email.png",
+    "Informa/DigComp/Area 2 - Risorse Digitali/Materiali/Immagini/introduzione_lezione.png"
   ]
 }
