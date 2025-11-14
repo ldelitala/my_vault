@@ -4,56 +4,98 @@
     "type": "split",
     "children": [
       {
-        "id": "23cf0665186c2a0a",
+        "id": "39fca24967a6cb12",
         "type": "tabs",
         "children": [
           {
-            "id": "a97c1ec61345ed9d",
+            "id": "918c15f784541996",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - UNIPI/BD/Appello1/Progetto_Finale.md",
+                "file": "1 - UNIPI/introAI/IntroAI.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Progetto_Finale"
+              "title": "IntroAI"
             }
           },
           {
-            "id": "1e62736d9b3111bd",
+            "id": "584fad28d575c4f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compagni di Scuola.md",
+                "file": "5 - Atomic Notes/Caratteristiche consigliate euristica.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Compagni di Scuola"
+              "title": "Caratteristiche consigliate euristica"
             }
           },
           {
-            "id": "b6f894a02fec87f0",
+            "id": "c9291818542b0fc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 - Atomic Notes/lista di algoritmi di ricerca non informata.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "lista di algoritmi di ricerca non informata"
+            }
+          },
+          {
+            "id": "5291977b95112ce0",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Informa/DigComp/Esercitazione finale - lavoro a gruppi.pdf",
-                "page": 1,
-                "left": -16,
-                "top": 796,
-                "zoom": 1.0428921568627452
+                "file": "1 - UNIPI/introAI/Dispense/Introduzione alle Intelligenze Artificiali - CheetSheet.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Esercitazione finale - lavoro a gruppi"
+              "title": "Introduzione alle Intelligenze Artificiali - CheetSheet"
+            }
+          },
+          {
+            "id": "83bee2685a8e85f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 - Atomic Notes/Esercitazione 2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Esercitazione 2"
+            }
+          },
+          {
+            "id": "544c76904c7132a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 - Atomic Notes/Esercitazione 2 pt2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Esercitazione 2 pt2"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -187,65 +229,64 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
-      "github-sync:Sync with Remote": false
+      "github-sync:Sync with Remote": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "a97c1ec61345ed9d",
+  "active": "83bee2685a8e85f7",
   "lastOpenFiles": [
-    "Compagni di Scuola.md",
-    "1 - UNIPI/BD/Appello1/Progetto_Finale.md",
-    "1 - UNIPI/BD/Appello3",
-    "Informa/DigComp/00 - Introduzione/Slides - Digcomp.pdf",
-    "Informa/DigComp/Esercitazione finale - lavoro a gruppi.md",
-    "Informa/DigComp/Esercitazione finale - lavoro a gruppi.pdf",
-    "Informa/DigComp/Esercizi - Canva.md",
-    "Informa/DigComp/Esercizi - Canva.pdf",
-    "Informa/DigComp/Area 4 - valutazione dell'apprendimento/MD/Esercizio - quiz interattivo.md",
-    "Informa/DigComp/Area 3 - pratiche di insegnamento e apprendimento/MD/Esercizio - presentazione con Canva.md",
-    "Informa/DigComp/Area 2 - Risorse Digitali/MD/Esercizi - google, yt e ai.md",
-    "Appunti della classe.md",
-    "Informa/DigComp/00 - Introduzione/Slides - introduzione corso.pdf",
-    "Informa/Sostituzione 2025.06.24.md",
-    "Informa/DigComp/Percorso lezioni/DigComp - 3 - valorizzazione professionale.md",
-    "Informa/DigComp/Percorso lezioni/DigComp - 2 - Autovalutazione.md",
-    "Informa/DigComp/Area 1 - valorizzazione professionale/MD/Appunti - LLM.md",
-    "Informa/DigComp/Area 1 - valorizzazione professionale/PDF/Appunti - LLM.pdf",
-    "Informa/DigComp/Percorso lezioni/DigComp - Extra - Pratiche di sicurezza password.md",
-    "Informa/DigComp/Percorso lezioni/DigComp - 1 - Introduzione al corso.md",
-    "Informa/DigComp/00 - Introduzione/Slides - norme_sicurezza_password.pdf",
-    "Informa/DigComp/Giovanni23/Cosa faremo.md",
-    "Informa/DigComp/Giovanni23/2025.06.19.md",
-    "Informa/DigComp/Giovanni23/2025.06.09.md",
-    "Informa/DigComp/Area 4 - valutazione dell'apprendimento/MD/Appunti - come creare un quiz interattivo.md",
-    "Informa/DigComp/Percorso lezioni/DigComp - 7 - valorizzazione delle potenzialità degli studenti.md",
-    "Informa/DigComp/Area 4 - valutazione dell'apprendimento/PDF/Appunti - come creare un quiz interattivo.pdf",
-    "Informa/DigComp/Area 4 - valutazione dell'apprendimento/PDF/quiz_tabellina_3.pdf",
-    "Informa/DigComp/Area 4 - valutazione dell'apprendimento/PDF/Esercizio - quiz interattivo.pdf",
-    "Informa/DigComp/Percorso lezioni/DigComp - 6 - valutazione dell'apprendimento.md",
-    "Informa/DigComp/Percorso lezioni/DigComp - 5 - Pratiche di insegnamento e apprendimento.md",
-    "Informa/DigComp/Area 3 - pratiche di insegnamento e apprendimento/MD/Appunti - introduzione a Canva.md",
-    "Informa/DigComp/Area 2 - Risorse Digitali/MD/Appunti - google, yt e ai.md",
-    "Informa/DigComp/Area 3 - pratiche di insegnamento e apprendimento/MD/immagini/schermata editor canva.png",
-    "Informa/DigComp/Area 3 - pratiche di insegnamento e apprendimento/MD/immagini/schermata iniziale canva.png",
-    "Informa/DigComp/Percorso lezioni/DigComp - 4 - Risorse Digitali.md",
-    "Informa/DigComp/esempio_memory.png",
-    "Informa/DigComp/Area 1 - valorizzazione professionale/MD/Appunti - GMAIL.md",
-    "Informa/DigComp/Area 2 - Risorse Digitali/MD/Immagini/introduzione_lezione.png",
-    "5 - Templates/nuova lezione.md",
-    "Informa/DigComp/Area 2 - Risorse Digitali/Immagini/introduzione_lezione.png",
-    "Informa/DigComp/Area 1 - valorizzazione professionale/MD/immagini/tokenization_example.png",
-    "Informa/DigComp/Area 1 - valorizzazione professionale/MD/immagini/gmail_send_email.png",
-    "Informa/DigComp/Area 1 - valorizzazione professionale/immagini/tokenization_example.png",
-    "Informa/DigComp/Area 1 - valorizzazione professionale/immagini/gmail_send_email.png",
-    "Informa/DigComp/Area 2 - Risorse Digitali/Materiali/Immagini/introduzione_lezione.png"
+    "5 - Atomic Notes/Esercitazione 2 pt2.md",
+    "5 - Atomic Notes/Esercitazione 2.md",
+    "5 - Atomic Notes/Euristica ammissibile.md",
+    "1 - UNIPI/introAI/IntroAI.md",
+    "5 - Atomic Notes/Caratteristiche consigliate euristica.md",
+    "5 - Atomic Notes/Hill Climbing.md",
+    "5 - Atomic Notes/lista di algoritmi di ricerca non informata.md",
+    "1 - UNIPI/introAI/Dispense/Introduzione alle Intelligenze Artificiali - CheetSheet.pdf",
+    "5 - Atomic Notes/Algoritmi di ricerca non informata.md",
+    "5 - Atomic Notes/Problemi di ricerca.md",
+    "5 - Atomic Notes/Algoritmi di ricerca informata.md",
+    "5 - Atomic Notes/Problemi di ricerca non informata.md",
+    "5 - Atomic Notes/garbage_collector.md",
+    "3 - Templates/definizione.md",
+    "5 - Atomic Notes/Euristica consistente.md",
+    "5 - Atomic Notes/Esercitazione 1.md",
+    "1 - UNIPI/introAI/slides/1.5-2022-oltre_ricerca_classica.pdf",
+    "1 - UNIPI/introAI/slides/1.4-2023-infosearch.pdf",
+    "1 - UNIPI/introAI/slides/1.3-2023-problem_solving-V3.0.pdf",
+    "5 - Atomic Notes/Algoritmi di ricerca subottimale.md",
+    "2 - Tags/AGENTE.md",
+    "5 - Atomic Notes/Agente Razionale.md",
+    "5 - Atomic Notes/Classificazione di Agenti.md",
+    "5 - Atomic Notes/Algoritmo Evolutivo.md",
+    "5 - Atomic Notes/Local Beam.md",
+    "5 - Atomic Notes/Simulated Annealing.md",
+    "5 - Atomic Notes/relazione algoritmo - euristica.md",
+    "5 - Atomic Notes/A* pesato.md",
+    "5 - Atomic Notes/Euristica dominante.md",
+    "5 - Atomic Notes/Strutture dati per la ricerca.md",
+    "1 - UNIPI/introAI/slides/3.1_ML_INTRO.pdf",
+    "1 - UNIPI/introAI/slides/2.1_Agenti_basati_su_conoscenza_2023_02_14.pdf",
+    "1 - UNIPI/introAI/slides/1.2-2023-agents.pdf",
+    "1 - UNIPI/introAI/slides/1.1-IIA-23-introduzione-V1.0.pdf",
+    "4 - Atomic Notes",
+    "3 - Templates",
+    "1 - UNIPI/introAI/appunti/Pasted image 20251111174712.png",
+    "1 - UNIPI/introAI/appunti/Pasted image 20251111174453.png",
+    "1 - UNIPI/introAI/appunti/Pasted image 20251111173028.png",
+    "1 - UNIPI/introAI/appunti/Pasted image 20251110121411.png",
+    "1 - UNIPI/introAI/appunti/Pasted image 20251110114356.png",
+    "1 - UNIPI/introAI/appunti/Pasted image 20250917110209.png",
+    "Pasted image 20251111174712.png",
+    "Pasted image 20251111174453.png",
+    "Pasted image 20251111173028.png",
+    "Pasted image 20251110121411.png"
   ]
 }
