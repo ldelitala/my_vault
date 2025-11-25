@@ -3,7 +3,7 @@
   "obsidian-latex-suite",
   "better-word-count",
   "github-sync",
-  "obsidian-admonition",
   "obsidian-pandoc",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-admonition"
 ]

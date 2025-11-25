@@ -8,7 +8,25 @@
         "type": "tabs",
         "children": [
           {
-            "id": "918c15f784541996",
+            "id": "e121d64c658517d0",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "1 - UNIPI/introAI/slides/2.3_Agenti_logici_logica_del_prim_ordine_2023_02_21.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "2.3_Agenti_logici_logica_del_prim_ordine_2023_02_21"
+            }
+          }
+        ]
+      },
+      {
+        "id": "0c669b3797b5187d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ffd5edc2952349e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -23,78 +41,22 @@
             }
           },
           {
-            "id": "584fad28d575c4f4",
+            "id": "34ef726ffcea6fe4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 - Atomic Notes/Caratteristiche consigliate euristica.md",
+                "file": "5 - Atomic Notes/Sostituzione e Unificazione.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Caratteristiche consigliate euristica"
-            }
-          },
-          {
-            "id": "c9291818542b0fc5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 - Atomic Notes/lista di algoritmi di ricerca non informata.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "lista di algoritmi di ricerca non informata"
-            }
-          },
-          {
-            "id": "5291977b95112ce0",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "1 - UNIPI/introAI/Dispense/Introduzione alle Intelligenze Artificiali - CheetSheet.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Introduzione alle Intelligenze Artificiali - CheetSheet"
-            }
-          },
-          {
-            "id": "83bee2685a8e85f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 - Atomic Notes/Esercitazione 2 pt2.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Esercitazione 2 pt2"
-            }
-          },
-          {
-            "id": "544c76904c7132a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 - Atomic Notes/Esercitazione 2 pt2.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Esercitazione 2 pt2"
+              "title": "Sostituzione e Unificazione"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "FOL",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -151,7 +113,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "89ab3b83ffde6501",
@@ -239,53 +202,52 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "918c15f784541996",
+  "active": "34ef726ffcea6fe4",
   "lastOpenFiles": [
-    "5 - Atomic Notes/Esercitazione 2 pt2.md",
-    "5 - Atomic Notes/Esercitazione 2.md",
-    "5 - Atomic Notes/Euristica ammissibile.md",
+    "1 - UNIPI/introAI/slides/2.3_Agenti_logici_logica_del_prim_ordine_2023_02_21.pdf",
+    "5 - Atomic Notes/Sostituzione e Unificazione.md",
+    "5 - Atomic Notes/Sostituzione.md",
     "1 - UNIPI/introAI/IntroAI.md",
-    "5 - Atomic Notes/Caratteristiche consigliate euristica.md",
-    "5 - Atomic Notes/Hill Climbing.md",
-    "5 - Atomic Notes/lista di algoritmi di ricerca non informata.md",
+    "5 - Atomic Notes/Teorema di Herbrand.md",
+    "5 - Atomic Notes/Conseguenza logica.md",
+    "5 - Atomic Notes/Trasformazione in Logica Proposizionale.md",
+    "4 - images/clausole div nomi div.png",
+    "4 - images/clausole diverse nomi div.png",
+    "4 - images/variabili libere quantificate universalmente.png",
+    "4 - images/Pasted image 20251124191643.png",
+    "4 - images/portare davanti qualificatori universali.png",
+    "5 - Atomic Notes/Regole di inferenza e Skolemizzazione.md",
+    "5 - Atomic Notes/Leggi equivalenze logiche.md",
+    "4 - images/esempio inferenza esistenza.png",
+    "4 - images/esempio inferenza perogni.png",
+    "5 - Atomic Notes/Formula ground.md",
+    "5 - Atomic Notes/Variabili legate o libere.md",
+    "5 - Atomic Notes/Formula chiusa o aperta.md",
+    "4 - images/esempio variabili legate o libere.png",
+    "2 - Tags/LOGICA DEL PRIMO ORDINE FOL.md",
+    "1 - UNIPI/PDP/PDP.md",
+    "5 - Atomic Notes/Call-by-Name vs Call-by-Value.md",
+    "5 - Atomic Notes/Come usare il combinatore Y.md",
+    "5 - Atomic Notes/il combinatore Y.md",
+    "2 - Tags/LOGICA PROPOSIZIONALE.md",
+    "2 - Tags/TEOREMI.md",
+    "5 - Atomic Notes/Algoritmo WALK-SAT.md",
+    "5 - Atomic Notes/Forma Normale Congiuntiva FNC o CNF.md",
+    "5 - Atomic Notes/Terminazione anticipata.md",
+    "5 - Atomic Notes/Letterali Puri.md",
+    "5 - Atomic Notes/Clausole Unitarie.md",
+    "1 - UNIPI/introAI/slides/2.2_PROP-ModelChecking_SatAlgorithm_risolution_2023_02_16.pdf",
+    "5 - Atomic Notes/Regola di Risoluzione.md",
+    "5 - Atomic Notes/Modello di una formula.md",
+    "4 - images/confronto tra dpll e walksat.png",
+    "4 - images/Probabilità di soddisfacibilità.png",
+    "1 - UNIPI/introAI/slides/2.1_Agenti_basati_su_conoscenza_2023_02_14.pdf",
+    "1 - UNIPI/introAI/slides/2.4_agenti_logici_fol.pdf",
     "1 - UNIPI/introAI/Dispense/Introduzione alle Intelligenze Artificiali - CheetSheet.pdf",
-    "5 - Atomic Notes/Algoritmi di ricerca non informata.md",
-    "5 - Atomic Notes/Problemi di ricerca.md",
-    "5 - Atomic Notes/Algoritmi di ricerca informata.md",
-    "5 - Atomic Notes/Problemi di ricerca non informata.md",
-    "5 - Atomic Notes/garbage_collector.md",
-    "3 - Templates/definizione.md",
-    "5 - Atomic Notes/Euristica consistente.md",
-    "5 - Atomic Notes/Esercitazione 1.md",
     "1 - UNIPI/introAI/slides/1.5-2022-oltre_ricerca_classica.pdf",
     "1 - UNIPI/introAI/slides/1.4-2023-infosearch.pdf",
     "1 - UNIPI/introAI/slides/1.3-2023-problem_solving-V3.0.pdf",
-    "5 - Atomic Notes/Algoritmi di ricerca subottimale.md",
-    "2 - Tags/AGENTE.md",
-    "5 - Atomic Notes/Agente Razionale.md",
-    "5 - Atomic Notes/Classificazione di Agenti.md",
-    "5 - Atomic Notes/Algoritmo Evolutivo.md",
-    "5 - Atomic Notes/Local Beam.md",
-    "5 - Atomic Notes/Simulated Annealing.md",
-    "5 - Atomic Notes/relazione algoritmo - euristica.md",
-    "5 - Atomic Notes/A* pesato.md",
-    "5 - Atomic Notes/Euristica dominante.md",
-    "5 - Atomic Notes/Strutture dati per la ricerca.md",
     "1 - UNIPI/introAI/slides/3.1_ML_INTRO.pdf",
-    "1 - UNIPI/introAI/slides/2.1_Agenti_basati_su_conoscenza_2023_02_14.pdf",
-    "1 - UNIPI/introAI/slides/1.2-2023-agents.pdf",
-    "1 - UNIPI/introAI/slides/1.1-IIA-23-introduzione-V1.0.pdf",
-    "4 - Atomic Notes",
-    "3 - Templates",
-    "1 - UNIPI/introAI/appunti/Pasted image 20251111174712.png",
-    "1 - UNIPI/introAI/appunti/Pasted image 20251111174453.png",
-    "1 - UNIPI/introAI/appunti/Pasted image 20251111173028.png",
-    "1 - UNIPI/introAI/appunti/Pasted image 20251110121411.png",
-    "1 - UNIPI/introAI/appunti/Pasted image 20251110114356.png",
-    "1 - UNIPI/introAI/appunti/Pasted image 20250917110209.png",
-    "Pasted image 20251111174712.png",
-    "Pasted image 20251111174453.png",
-    "Pasted image 20251111173028.png",
-    "Pasted image 20251110121411.png"
+    "1 - UNIPI/introAI/slides/1.2-2023-agents.pdf"
   ]
 }

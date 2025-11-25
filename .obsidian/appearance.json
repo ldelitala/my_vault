@@ -4,6 +4,7 @@
   "interfaceFontFamily": "Segoe UI",
   "accentColor": "#131da4",
   "enabledCssSnippets": [
-    "latex_size"
+    "latex_size",
+    "custom-admonitions.427ae8"
   ]
 }

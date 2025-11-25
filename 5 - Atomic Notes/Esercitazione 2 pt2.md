@@ -80,7 +80,13 @@ $$
 > 
 > Motivare le risposte.
 
+#### a)
 
+* non possiamo dire se h2 è ammissibile. 
+
+#### b) 
+* no
 ## Riferimenti utili
 
 * [[Esercitazione 2]]
+* [[Euristica ammissibile]]
